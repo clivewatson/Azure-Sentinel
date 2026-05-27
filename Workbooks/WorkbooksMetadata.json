@@ -2989,7 +2989,7 @@
   },
   {
     "workbookKey": "WorkspaceUsage",
-    "logoFileName": "Azure_Sentinel.svg",
+    "logoFileName": "a-little-slice-graphic.svg",
     "description": "Gain insights into your workspace's usage. In this workbook, you can view your workspace's data consumption, latency, recommended tasks and Cost and Usage statistics.",
     "dataTypesDependencies": [],
     "dataConnectorsDependencies": [],
@@ -2997,7 +2997,7 @@
       "WorkspaceUsageBlack.png",
       "WorkspaceUsageWhite.png"
     ],
-    "version": "1.6.4",
+    "version": "1.6.5",
     "title": "Workspace Usage Report",
     "templateRelativePath": "WorkspaceUsage.json",
     "subtitle": "",
